@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Spanish Language-->
+    <string name="app_name">CST2335</string>
+    <string name="lab_2_gui">Interfaz gráfica de usuario de laboratorio 2</string>
+    <string name="click_here">" haga clic aquí"</string>
+    <string name="check_this_out">Mira esto</string>
+    <string name="switch_on_off">" Encender / apagar"</string>
+    <string name="enter_name_here">Introduzca nombre aquí</string>
+    <string name="here_is_more_information">" Aquí hay más información"</string>
+    <string name="the_switch_now_off">El interruptor ahora está apagado</string>
+    <string name="the_switch_now_on">" El interruptor ahora está encendido"</string>
+    <string name="undo">DESHACER</string>
+</resources>

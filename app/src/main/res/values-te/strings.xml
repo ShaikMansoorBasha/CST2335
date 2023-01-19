@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Telugu Language-->
+    <string name="app_name">CST2335</string>
+    <string name="lab_2_gui">" ల్యాబ్ 2 GUI"</string>
+    <string name="click_here">ఇక్కడ నొక్కండి</string>
+    <string name="check_this_out">" దీన్ని తనిఖీ చేయండి"</string>
+    <string name="switch_on_off">స్విచ్ ఆన్ / ఆఫ్</string>
+    <string name="enter_name_here">ఇక్కడ పేరు నమోదు చేయండి</string>
+    <string name="here_is_more_information">ఇక్కడ మరింత సమాచారం ఉంది</string>
+    <string name="the_switch_now_off">ఇప్పుడు స్విచ్ ఆఫ్ చేయబడింది</string>
+    <string name="the_switch_now_on">" స్విచ్ ఇప్పుడు ఆన్‌లో ఉంది"</string>
+    <string name="undo">" రద్దు చేయి"</string>
+</resources>
