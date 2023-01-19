@@ -22,6 +22,11 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        /**
+         * ========= Shaik Comments ===========
+         * For step 1 no need to change anything
+         * For step 2 just replace the "activity_main_linear" with "activity_main_constraint"
+         */
         setContentView(R.layout.activity_main_linear);
         btn_Click = (Button) findViewById(R.id.btn_click);
         btn_switch = (Switch) findViewById(R.id.btn_switch);
